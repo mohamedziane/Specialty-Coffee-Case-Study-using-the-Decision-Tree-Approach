@@ -62,11 +62,11 @@ This notebook uses decision trees to determine whether the factors of salary, ge
 All in all, the prospect of having a new product appear to please the majority of existing customers.
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Specialty-Coffee-Case-Study-using-the-Decision-Tree-Approach/main/images/img_boxplot.png">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/mohamedziane/Specialty-Coffee-Case-Study-using-the-Decision-Tree-Approach/main/images/img_boxplot.png">
 </p>
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Specialty-Coffee-Case-Study-using-the-Decision-Tree-Approach/main/images/img_spending.png">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/mohamedziane/Specialty-Coffee-Case-Study-using-the-Decision-Tree-Approach/main/images/img_spending.png">
 </p>
 
 **Can we admissibly conclude anything from this scatterplot?** 
