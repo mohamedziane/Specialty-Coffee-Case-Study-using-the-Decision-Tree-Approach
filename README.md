@@ -2,7 +2,7 @@
 # Specialty Coffee Case Study using the Decision Tree Approach
 
 <p align="center">
-  <img width="400" height="500" src="https://www.tastingtable.com/img/gallery/coffee-brands-ranked-from-worst-to-best/intro-1640648130.webp">
+  <img width="800" height="500" src="https://www.tastingtable.com/img/gallery/coffee-brands-ranked-from-worst-to-best/intro-1640648130.webp">
 </p>
 
 ## 1. Introduction: Coronavirus
