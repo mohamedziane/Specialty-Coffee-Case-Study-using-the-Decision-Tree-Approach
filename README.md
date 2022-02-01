@@ -80,7 +80,7 @@ All in all, the prospect of having a new product appear to please the majority o
 **Model 1: Entropy model - no max_depth: Interpretation and evaluation**
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Specialty-Coffee-Case-Study-using-the-Decision-Tree-Approach/main/images/img_model1.png">
+  <img width="800" height="400" src="https://raw.githubusercontent.com/mohamedziane/Specialty-Coffee-Case-Study-using-the-Decision-Tree-Approach/main/images/img_model1.png">
 </p>
 
 
@@ -99,7 +99,7 @@ Gini impurity, like entropy, is a measure of how well a given feature (and thres
 Their equations are similar, but Gini impurity doesn't require logorathmic functions, which can be computationally expensive.
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Specialty-Coffee-Case-Study-using-the-Decision-Tree-Approach/main/images/img_model2.png">
+  <img width="800" height="400" src="https://raw.githubusercontent.com/mohamedziane/Specialty-Coffee-Case-Study-using-the-Decision-Tree-Approach/main/images/img_model2.png">
 </p>
 
 - We have 11 leaves with purity at 0 (This is the ideal scenario), however 6 of them are having a very low number of samples so we cannot be very confident for their predictions (clear sign of over-fitting).
