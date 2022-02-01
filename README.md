@@ -5,7 +5,7 @@
   <img width="800" height="500" src="https://www.tastingtable.com/img/gallery/coffee-brands-ranked-from-worst-to-best/intro-1640648130.webp">
 </p>
 
-## 1. Introduction: Coronavirus
+## 1. Introduction
 
 Let's suppose that I have been hired by a rising popular specialty coffee company - RR Diner Coffee - as a data scientist.
 
